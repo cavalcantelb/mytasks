@@ -18,6 +18,8 @@ It is a project and task management application that allows the creation of proj
 
 
 ### Main Screen
+![image](https://user-images.githubusercontent.com/12122794/223899027-c3e2201e-b0a2-4f1b-90b4-0827ff8b3c06.png)
+
 ![image](https://user-images.githubusercontent.com/12122794/223898019-43bd99aa-09ef-4035-a481-f4cf3537b8bc.png)
 
 Deadline validation (red late, yellow on day and green deadline)
