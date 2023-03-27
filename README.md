@@ -48,3 +48,5 @@ Where:
 You can run this command in a command prompt or terminal to import the SQL file.
 
 Alternatively, if you are using a graphical interface to manage the database, such as MySQL Workbench, you can import the SQL file using the "Database" -> "Data Import" -> "Import from Self-Contained File" menu option. In this option, you can choose the SQL file you want to import and configure the necessary options before running the import.
+
+Use the database-file.sql file for import
