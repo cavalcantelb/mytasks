@@ -29,3 +29,22 @@ Deadline validation (red late, yellow on day and green deadline)
 
 ### Task registration (with field validation)
 ![image](https://user-images.githubusercontent.com/12122794/223898403-a9e7ff10-8784-4863-9fb1-372e97f52250.png)
+
+### Importing the database
+
+To import an SQL file into a MySQL database, you can use the mysql command-line utility. The following command shows how to import an SQL file to a MySQL database:
+
+
+```JAVA
+mysql -u <username> -p <database name> < <path to import file>
+```
+
+Where:
+
+<username> is the MySQL user name that has permission to access the database.
+<password> is the MySQL user's password.
+<database name> is the name of the database that you want to import the SQL file into.
+<path to import file> is the full path to the SQL file that you want to import.
+You can run this command in a command prompt or terminal to import the SQL file.
+
+Alternatively, if you are using a graphical interface to manage the database, such as MySQL Workbench, you can import the SQL file using the "Database" -> "Data Import" -> "Import from Self-Contained File" menu option. In this option, you can choose the SQL file you want to import and configure the necessary options before running the import.
